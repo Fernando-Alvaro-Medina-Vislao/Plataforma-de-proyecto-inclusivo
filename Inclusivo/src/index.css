@@ -1144,12 +1144,12 @@
   }
 
   .rounded-md {
-    border-radius: calc(var(--radius)  -  2  px);
-  }
+    border-radius: calc(var(--radius) - 2px);
+}
 
-  .rounded-xl {
-    border-radius: calc(var(--radius)  +  4  px);
-  }
+.rounded-xl {
+    border-radius: calc(var(--radius) + 4px);
+}
 
   .rounded-tl-2xl {
     border-top-left-radius: var(--radius-2xl);
