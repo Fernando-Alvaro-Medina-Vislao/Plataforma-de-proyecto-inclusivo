@@ -1,5 +1,5 @@
 /*! tailwindcss v4.1.3 | MIT License | https://tailwindcss.com */
-@layer properties {
+@layer properties { 
   @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {
     *, :before, :after, ::backdrop {
       --tw-translate-x: 0;
@@ -1144,11 +1144,11 @@
   }
 
   .rounded-md {
-    border-radius: calc(var(--radius)  - 2 px);
+    border-radius: calc(var(--radius)  -  2  px);
   }
 
   .rounded-xl {
-    border-radius: calc(var(--radius)  + 4 px);
+    border-radius: calc(var(--radius)  +  4  px);
   }
 
   .rounded-tl-2xl {
